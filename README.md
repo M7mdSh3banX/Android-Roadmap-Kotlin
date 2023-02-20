@@ -13,7 +13,13 @@
     3. Kotlin compiler
     4. Kotlin Environment setup with Intellij IDEA
   ## Concepts
-    - Start with Hello World!
+    - Kotlin Standard Input/Output
+      1. Print data to user
+      2. Read data from user
+    - Variables
+      1. Mutable using var keyword
+      2. Immutable using val keyword
+    - Comments
     - Types
       1. Numbers
       2. Unsigned integer types
