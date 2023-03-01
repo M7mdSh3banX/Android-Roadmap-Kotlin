@@ -88,6 +88,9 @@
     - Companion object
     - Enum class
     - Sealed Class
+  ## Unit Testing (Part 2) with JUnit5
+    - Test Driven Development (TDD) approach
+    - Testing a class
   ## Scope Functions
     - let
     - apply
