@@ -131,13 +131,71 @@
       - res
     - The user interface
     - Gradle build system
+  ## Introduction to activities
+    - The concept of activities
+    - Managing the activity lifecycle
+      - onCreate()
+      - onStart()
+      - onResume()
+      - onPause()
+      - onStop()
+      - onRestart()
+      - onDestroy()
   ## User Interface
     - View
-      - Button, ImageView, TextView, EditText etc
+      - Button
+      - ImageView
+      - TextView
+      - EditText
+      - etc...
     - ViewGroup
-      - LinearLayout, RelativeLayout, FrameLayout, ConstraintLayout
+      - Linear Layout
+      - Relative Layout
+      - Frame Layout
+      - Constraint Layout
+      - Motion Layout
   ## User Interface Resources
+    - Color
+    - Mipmap
+    - Layout
     - Drawables
     - String
     - Styles
+    - Font
+    - etc...
+  ## Navigating between activities
+    - Types of Intent
+      - Implicit
+      - Explicit
+    - Passing data between activities
+    - onClick()
+  ## Material Design
+    - Floating Action Button
+    - Card view
+    - Text fields
+    - Chips
+    - Bottom Navigation
+    - Alert Dialogue
+    - Menus
+    - Tabs layout
+    - Navigation drawer
+    - Snack bar
+  ## Adapter View
+    - List view
+    - Recycler view
+    - Grid view
+    - Spinner
+  ## dialogs
+    - Dialog management
+    - Creating alert dialog
+    - Creating a progress dialog
+    - Creating custom dialog
+  ## Fragments
+    - Fragment life cycle
+    - Start with fragments
+  ## Firebase
+    - Write data
+    - Read data
+    - Authintications with sign in & sign up
+    - Authintications with Google
 ----
