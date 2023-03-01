@@ -28,6 +28,7 @@
       5. Strings
       6. Arrays
       7. Type checks and casts
+      8. lateinit keyword
   ## Control Flow
     - Conditions and loops
       1. If expression
@@ -40,5 +41,58 @@
       3. Labels
     - Exceptions
     - Packages and imports
-
+  ## Null safety
+    - Nullable types and non-null types
+    - Safe calls
+    - Elvis operator
+    - The !! operator
+  ## Functions
+    - Function usage
+    - Function types
+    - Parameters
+    - Default arguments
+    - Named arguments
+    - Unit-returning functions
+    - Single-expression functions
+    - Functions overloading
+    - Variable number of arguments (varargs)
+    - Extension functions
+    - Infix functions
+    - Generic functions
+  ## High-order functions and lambdas
+    - Lambda expression syntax
+    - Returning a value from a lambda expression
+  ## Mastering Comments
+    - Documentation of function
+  ## Unit Testing (Part 1) with JUnit5
+    - Software testing pyramid
+    - Create project with dependency management like Maven or Gradle
+    - Testing functions
+    - Test cases names
+    - Given-When-Then - style of representing tests
+    - Testing Exceptions
+  ## Object Oriented Programming
+    - Class Definition
+    - init Block and Primary Constructor
+    - Secondary Constructors
+    - Creating instances of classes
+    - Inheritance
+    - Overriding Properties and Methods
+    - Visibility Modifiers - public, protected and private
+    - Abstract class
+    - Interface
+    - Data class
+    - Singleton using 'object'
+    - Companion object
+    - Enum class
+    - Sealed Class
+  ## Scope Functions
+    - let
+    - apply
+    - with
+    - also
+    - run
+    - takeIf and takeUnless
+  ## Collections
+    - 
 ----
