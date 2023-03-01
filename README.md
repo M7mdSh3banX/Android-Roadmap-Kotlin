@@ -105,15 +105,39 @@
     - List
     - Set
     - Map
-    - filter
+    - Filter
     - Grouping
     - Slice
     - Take and drop
     - Chunked
     - Random
-    - contains
-    - equal
+    - Contains
+    - Equal
     - isEmpty() or isNotEmpty()
     - Ordering
     - Reverse order
+----
+# Learn Android Kotlin Development
+  ## Android Overview
+    - What's Android?
+    - Android versions
+    - Features of Android
+    - Install Android Studio
+    - Android SDK
+  ## Project structure
+    - Android app modules
+      - manifests
+      - java
+      - res
+    - The user interface
+    - Gradle build system
+  ## User Interface
+    - View
+      - Button, ImageView, TextView, EditText etc
+    - ViewGroup
+      - LinearLayout, RelativeLayout, FrameLayout, ConstraintLayout
+  ## User Interface Resources
+    - Drawables
+    - String
+    - Styles
 ----
