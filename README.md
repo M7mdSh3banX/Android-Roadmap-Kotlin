@@ -29,12 +29,14 @@
       6. Arrays
       7. Type checks and casts
       8. lateinit keyword
+      9. lazy keyword
   ## Control Flow
     - Conditions and loops
       1. If expression
       2. When expression
       3. For loops
-      4. While loops
+      4. For each
+      5. While loops
     - Returns and jumps
       1. Break and continue
       2. Return
@@ -94,5 +96,21 @@
     - run
     - takeIf and takeUnless
   ## Collections
-    - 
+    - Collection types
+      - read-only interface
+      - mutable interface
+    - List
+    - Set
+    - Map
+    - filter
+    - Grouping
+    - Slice
+    - Take and drop
+    - Chunked
+    - Random
+    - contains
+    - equal
+    - isEmpty() or isNotEmpty()
+    - Ordering
+    - Reverse order
 ----
