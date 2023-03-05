@@ -1,10 +1,10 @@
-<p align="center">
-<img alt="Android Roadmap Kotlin" src="https://github.com/M7mdSh3banX/Android-Roadmap-Kotlin/blob/master/assets/background.png">
-</p>
-
 # Android Roadmap with Kotlin
 > A fully roadmap for learning Android application development with Kotlin language.
 ----
+
+<p align="center">
+<img alt="Android Roadmap Kotlin" src="https://github.com/M7mdSh3banX/Android-Roadmap-Kotlin/blob/master/assets/background.png">
+</p>
 
 # Learn Kotlin Language version: 1.8.0
   ## Kotlin Overview
