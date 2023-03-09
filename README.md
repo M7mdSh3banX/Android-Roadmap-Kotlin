@@ -124,13 +124,39 @@
     - Features of Android
     - Install Android Studio
     - Android SDK
-  ## Project structure
+  ## Android Project structure
     - Android app modules
       - manifests
       - java
       - res
+    - Android App Component
     - The user interface
     - Gradle build system
+  ## User Interface
+    - XML Introduction
+    - View
+      - Button
+      - ImageView
+      - TextView
+      - EditText
+      - etc...
+    - ViewGroup
+      - Linear Layout
+      - Scroll View
+      - Relative Layout
+      - Frame Layout
+      - Constraint Layout
+      - Motion Layout
+  ## User Interface Resources
+    - Drawables
+    - Layout
+    - mipmap
+    - Values
+      - Styles
+      - Colors
+      - Strings
+      - Dimensions
+    - etc...
   ## Introduction to activities
     - The concept of activities
     - Managing the activity lifecycle
@@ -141,28 +167,6 @@
       - onStop()
       - onRestart()
       - onDestroy()
-  ## User Interface
-    - View
-      - Button
-      - ImageView
-      - TextView
-      - EditText
-      - etc...
-    - ViewGroup
-      - Linear Layout
-      - Relative Layout
-      - Frame Layout
-      - Constraint Layout
-      - Motion Layout
-  ## User Interface Resources
-    - Color
-    - Mipmap
-    - Layout
-    - Drawables
-    - String
-    - Styles
-    - Font
-    - etc...
   ## Navigating between activities
     - Types of Intent
       - Implicit
