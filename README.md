@@ -146,7 +146,11 @@
       - Relative Layout
       - Frame Layout
       - Constraint Layout
+        - Chains
+        - Bias
+        - Baseline
       - Motion Layout
+    - Guidlines
   ## User Interface Resources
     - Drawables
     - Layout
@@ -163,6 +167,11 @@
   ## Introduction to activities
     - The concept of activities
     - findViewById
+    - setOnClickListener()
+    - logcat
+    - Toast
+    - Snackbar
+    - access resources from code
     - Managing the activity lifecycle
       - onCreate()
       - onStart()
