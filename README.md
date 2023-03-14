@@ -157,6 +157,9 @@
       - Strings
       - Dimensions
     - etc...
+  ## External Libraries
+    - Lottie library
+    - Android Arsenal
   ## Introduction to activities
     - The concept of activities
     - Managing the activity lifecycle
