@@ -162,6 +162,7 @@
     - Android Arsenal
   ## Introduction to activities
     - The concept of activities
+    - findViewById
     - Managing the activity lifecycle
       - onCreate()
       - onStart()
